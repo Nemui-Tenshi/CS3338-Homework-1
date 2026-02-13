@@ -1,0 +1,139 @@
+commit 95ac8e7b339cfe3829d83f8ebd7b50d975098bb7
+Merge: 3c70d02 1520dae
+Author: Nemui-Tenshi <rickychao350@gmail.com>
+Date:   Thu Feb 12 20:42:49 2026 -0800
+
+    Merge pull request #2 from George-M05/for-group
+    
+    Updated index.html with George's info
+
+commit 1520dae850a2f8803b3a5d9c87657a759abb849d
+Merge: 8ff0398 3c70d02
+Author: Nemui-Tenshi <rickychao350@gmail.com>
+Date:   Thu Feb 12 20:42:30 2026 -0800
+
+    Merge branch 'main' into for-group
+
+commit 8ff03983b869496dee7a33b14a45ac3539b47f81
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 12 20:11:52 2026 -0800
+
+    Changes for group portion
+
+commit 9be7ab7c255411d37b43fb3ad6b294e8a336ec0f
+Merge: fce5fb6 c335b7e
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 12 19:45:54 2026 -0800
+
+    Merged index.html edits from Nemui-Tenshi
+    
+    Updated index.html
+
+commit c335b7e803360507ac6478c7b87907a2a11eeddc
+Author: Nemui-Tenshi <rickychao350@gmail.com>
+Date:   Thu Feb 12 17:40:36 2026 -0800
+
+    Updated index.html
+    
+    Edited parts to George's index on the main branch
+
+commit 3c70d0286752da8d34063a1d208773bb1474596a
+Merge: f37cdce 9387a6f
+Author: Nemui-Tenshi <rickychao350@gmail.com>
+Date:   Thu Feb 12 17:26:37 2026 -0800
+
+    Merge pull request #1 from Nemui-Tenshi/feature-about-me
+    
+    Feature about me into main I think
+
+commit 9387a6f4f4350ef2e08f93e70c2a9204cf26dbc1
+Merge: 20f8290 f37cdce
+Author: Nemui-Tenshi <rickychao350@gmail.com>
+Date:   Thu Feb 12 17:25:46 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 20f8290c024c90d5e0876c8329d3c464d356d969
+Author: Nemui-Tenshi <rickychao350@gmail.com>
+Date:   Thu Feb 12 17:15:44 2026 -0800
+
+    Updated index.html
+    
+    Filled in information
+
+commit fce5fb6c66bb6e01ef6beca4d4ec95dacd874442
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 12 16:01:51 2026 -0800
+
+    Create README.md
+
+commit ca5c60308626968c156b3d23c10687e2773321a9
+Merge: 7ec241c d061504
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 12 16:00:09 2026 -0800
+
+    Merge branch 'main' of https://github.com/George-M05/CS3338-Homework-1
+
+commit 7ec241c671b8c4471bb0e0d9abae865e4cdf5acc
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 12 15:59:43 2026 -0800
+
+    Commit git_log.txt & repo-location.txt
+    
+    Added two text files one showing the git logs, and the other showing the link to my repo.
+
+commit d0615043a524bbc74a1b78d77447efa223245424
+Merge: f37cdce 20ae2f7
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 12 15:55:13 2026 -0800
+
+    Merge pull request #1 from George-M05/feature-about-me
+    
+    Update index.html
+
+commit 20ae2f7da81d8a250b8751382144f6c12d8ee1aa
+Author: George-M05 <georgemalanche2@gmail.com>
+Date:   Thu Feb 12 15:52:58 2026 -0800
+
+    Update index.html
+    
+    Added my name, and favorite hobby.
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
